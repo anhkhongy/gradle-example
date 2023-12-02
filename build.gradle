@@ -4,7 +4,7 @@ plugins {
 
 sonar {
   properties {
-    property("sonar.projectKey", "anhkhongy_Integrate-SonarQube-for-Gradle-using-GitHub-Actions")
+    property("sonar.projectKey", "anhkhongy_gradle-example")
     property("sonar.organization", "anhkhongy")
     property("sonar.host.url", "https://sonarcloud.io")
   }
